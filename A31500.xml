@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine observations, upon the two contrary covenants lately pvblished and shortly to be offered by one side or other to the whole kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31500</idno>
+            <idno type="STC">Wing C1716</idno>
+            <idno type="STC">ESTC R36295</idno>
+            <idno type="EEBO-CITATION">15633175</idno>
+            <idno type="OCLC">ocm 15633175</idno>
+            <idno type="VID">104268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine observations, upon the two contrary covenants lately pvblished and shortly to be offered by one side or other to the whole kingdome.</title>
+               </titleStmt>
+               <extent>[1], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through, with some loss of print.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643)</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104268:1"/>
+            <pb facs="tcp:104268:1" rendition="simple:additions"/>
+            <p>CERTAINE OBSERVATIONS UPON The two contrary COVENANTS, LATELY PVBLISHED, AND Shortly to be offered by one ſide or other to the whole KINGDOME.</p>
+            <p>OXFORD, Printed by LEONARD LICHFIELD, Printer to the Vniverſity. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104268:2" rendition="simple:additions"/>
+            <head>Certaine <hi>Obſervations</hi> upon two contrary <hi>Covenants.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat malignant and ill affected party which hath of late yeeres ſo diſturbed the peace &amp; tran<g ref="char:EOLhyphen"/>quility wherein this Kingdom had long before flouriſhed, and hath with their contagious prea<g ref="char:EOLhyphen"/>ching and writing infected many of the Kings formerly loyal ſub<g ref="char:EOLhyphen"/>jects with litigious &amp; rebellious opinions, it is compoſed of two ſorts of people. Thoſe who have contrived and do manage their whole de<g ref="char:EOLhyphen"/>ſigne, knowing what they do, and wherefore they do it; and thoſe who by the ſpecious pretences of the former are inveagled and drawn in to act they know not what nor why. The firſt are engaged for their ſeverall &amp; re<g ref="char:EOLhyphen"/>ſpective ends againſt their Conſciences, as ſome for Ambition, ſome for Covetouſneſſe, ſome for Vain-glo<g ref="char:EOLhyphen"/>ry, ſome for Malice, and ſome for Revenge: The others are engaged by their miſ-informed judgements; over thoſe nothing but Force can prevaile: among theſe Reaſon may find entertainment. Theſe two thus diffe<g ref="char:EOLhyphen"/>ring doe yet ſo agree, that they doe equally conduce to one end, and (like the judicious eye and brawnie arme of an Archer) one without the other can never hit the mark they aime at. Since therefore the rectifying of ei<g ref="char:EOLhyphen"/>ther of theſe, will rectifie both, and ſo ſettle the King<g ref="char:EOLhyphen"/>dome <hi>in ſtatu quo prius:</hi> It is certainly as eaſie to con<g ref="char:EOLhyphen"/>vince the miſ-led, by Reaſon, as to ſubdue the miſ-leaders by the ſword. Whilſt others therefore ſtrive to doe the later, I will endeavour to doe the former; ta<g ref="char:EOLhyphen"/>king
+<pb n="2" facs="tcp:104268:2" rendition="simple:additions"/>occaſion by theſe two oppoſite Covenants lately publiſhed, and ſhortly by one ſide or other to be offe<g ref="char:EOLhyphen"/>red to the whole Kingdome, becauſe the moſt power<g ref="char:EOLhyphen"/>full convincement in the world is to judge a man out of his owne mouth; if therefore I can prove (as I make no doubt but I ſhall) that that which in this Covenant this Malignant party doth ſweare to doe, is contrary to all their former pretences, &amp; diſcovers their malicious intentions, I hope it wil make ſome Proſelytes. I deſire every one therefore to conſider well of both theſe Co<g ref="char:EOLhyphen"/>venants, as it behoveth him to doe before he taketh ei<g ref="char:EOLhyphen"/>ther, and to compare them together, and then as the Prophet <hi>Eliah</hi> ſaid, 1 <hi>King.</hi> 18.21. <hi>How long halt ye be<g ref="char:EOLhyphen"/>tween two opinions? If the Lord be God, follow him: but if Baal, then follow him.</hi> So will I put it upon this iſſue, (though howſoever the caſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is diſputable) that if it ſhall appeare to any man, that with a cleare and unſo<g ref="char:EOLhyphen"/>phiſticated judgement conſidereth theſe Covenants, that the fore-mentioned malignant party doth princi<g ref="char:EOLhyphen"/>pally and chiefly endeavour the eſtabliſhing of the true Reformed Proteſtant Religion, the preſervation of the Kings Perſon, the priviledge of Parliament, the pro<g ref="char:EOLhyphen"/>priety of the Subject, and the Laws of the Land, &amp; the ſetling of peace and quiet among us, without prefer<g ref="char:EOLhyphen"/>ring their private ends, then let him enter into Cove<g ref="char:EOLhyphen"/>nant with them againſt his King: But if he ſhall finde that it is the King who endeavours all that is aforeſaid, and that in them it is but pretended, not intended, let him take heed that he Covenant not with them, for it is a fearfull thing to mock God ſo ſolemnly. Let not feare induce him to it, but let him keep faith and a good conſcience, and truſt God with the reſt; and if he find that he hath been hitherto ſeduced, let him not be
+<pb n="3" facs="tcp:104268:3" rendition="simple:additions"/>aſhamed to profeſſe his converſion: for it is the grea<g ref="char:EOLhyphen"/>teſt honour to a man in the world ingenouſly to con<g ref="char:EOLhyphen"/>feſſe his errour.</p>
+            <p>But leſt every man ſhould not ſo circumſpectly look into theſe Covenants as I do, the better to help him, I wil here ſet down 5. Obſervations which I have taken.</p>
+            <p>The firſt is, that in the Covenant compoſed by this Malignant party, the preſervation of His Majeſties per<g ref="char:EOLhyphen"/>ſon and juſt Rights, is not at all mentioned amongſt other pretences, as it hath heretofore been in all their writings, wherein their motives to begin and proſecute the war have been named, by which I gather this, that their plauſible pretences having ſerved their turns in helping them to raiſe an Army; they doe (like horſe-ſtealers, who having ridden one horſe as far as he can goe, turne him looſe and take another) ſhift or change their pretences from Proteſtant Religion, &amp;c. to what<g ref="char:EOLhyphen"/>ſoever is for the good of the Cauſe; ſo that their Ar<g ref="char:EOLhyphen"/>my that was raiſed for the defence of the King and Par<g ref="char:EOLhyphen"/>liament, is maintained to fight againſt the Kings Army, his own Perſon not excepted: Going back from their firſt principles, as beſt fitteth for their purpoſe, (like trees that ſhed their beautifull bloſſomes when their fruit begin to appeare) whilſt the Kings Covenant ſtil mentioneth the priviledge of Parliament in the num<g ref="char:EOLhyphen"/>ber of the cauſes wherefore he proceedeth in this war: But howſoever thoſe who are contrivers of this wicked and malicious deſigne, take this liberty to themſelves; let not thoſe to whom I addreſſe my ſelfe (that is, ſuch who have been perſwaded hitherto by their miſ-infor<g ref="char:EOLhyphen"/>med conſciences to all that they have done) conſent with them, and ſo loſe that which is their onely plea both before God and man, and let them take ſpeciall
+<pb n="4" facs="tcp:104268:3" rendition="simple:additions"/>care not to pin themſelves ſo upon the others ſleeves, as to think their wiſdomes infallible, or honeſties indi<g ref="char:EOLhyphen"/>ſputable; but as a man will beleeve his own eyes be<g ref="char:EOLhyphen"/>fore anothers, ſo let him alwayes have recourſe to his owne breaſt, and aske counſell there: for by his owne conſcience ſhall he be judged.</p>
+            <p>The ſecond is, that they vow never to lay down arms ſo long as the Papiſts now in arms againſt the Parlia<g ref="char:EOLhyphen"/>ment (as they ſay) ſhall be kept from the juſtice of it; that is, till the Kings Army be overcome. This is the moſt irreligious and inhumane Vow that can be ima<g ref="char:EOLhyphen"/>gined, for it excludes all hopes of Accommodation and peace by Treaty, and it evidently ſheweth that the ſet<g ref="char:EOLhyphen"/>ling of Religion, Laws, and Liberty is not the thing they aime at, for the Kings Purry are ſworne by their Covenant that that ſhall be their firſt endeavour, whilſt theſe Vow to entertaine <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Treaty (for ſo farre doth the ſenſe of their vow reach) and indeed if we had not this evident proof of their averſneſſe to peace, it were a great folly to think otherwiſe of them; For wherefore took they up armes? Not for the Eſtabliſh<g ref="char:EOLhyphen"/>ing of the Proteſtant Religion &amp;c. no, for then they would have laid them down again upon the Kings Oath and promiſe to be as forward to that as they: But they ſay we cannot confide in the Kings Oath, for my part, I think that without repentance they will be damned for ſaying ſo, becauſe they have ſo little cha<g ref="char:EOLhyphen"/>rity, I am ſure they never durſt venture to Treat for feare he ſhould be as good as his word. If it were not for this, wherefore was it then that they tooke up Armes? Marry that I thinke none but God knoweth (beſides themſelves) who in his good time will bring it to light: But in the mean time, as I can judge by a
+<pb n="5" facs="tcp:104268:4" rendition="simple:additions"/>mans countenance and other ſympt oms that he is not well, though I know not directly what he aileth; ſo by theſe Obſervations out of their own Covenant, and the reſt that I ſhall make, one may finde that their in<g ref="char:EOLhyphen"/>tentions are not for good, though he knoweth not the particular Miſcheife that they aime at; which may ſuffice to make every honeſt man, heitherto miſled by them, to deſert them as well as if he had diſcovered their whole deſigne: and beſides they may chance to be for ſworne as thoſe 40 men were, who bound them<g ref="char:EOLhyphen"/>ſelves under a Curſe that they would neither eate nor drinke till they had ſlaine <hi>Paul.</hi>
+            </p>
+            <p>The Third is their Combination to ſtick to one an<g ref="char:EOLhyphen"/>other in theſe words. <hi>And I will likewiſe aſsiſt all other perſons that ſhall take this Oath in what they ſhall do in pur<g ref="char:EOLhyphen"/>ſuance thereof.</hi> This is a thing which was never done in a lawfull warre, but in conſpiracies, and confedera<g ref="char:EOLhyphen"/>cyes, which denotes that theirs is ſo, and beſides, it be<g ref="char:EOLhyphen"/>trayes their inward guilt when they take ſuch care for the protection of their ſeverall perſons, and ſheweth who were their teachers, even their Brethren the Scots; in the other Covenant I finde no ſuch thing, of which I ſhall make onely this uſe, to deſire every honeſt man to conſider, which ſide maketh the juſt war, and have the cleareſt conſciences, and with them to joyne himſelf.</p>
+            <p>The fourth is, that their covenant is to be conſtrain<g ref="char:EOLhyphen"/>ed, and that the Kings is Voluntary. This in the firſt place is contrary to Gods law, to conſtraine a man to take a vow, which with a ſafe Conſcience he cannot keep, or elſe he ſure to be plundred and undo ne, ſo that to adde to the publick Miſeries that they have brought upon us, they do by this draw particular men into ſuch an exigency, that either their bodies or
+<pb n="6" facs="tcp:104268:4" rendition="simple:additions"/>ſoules muſt be ruined. In the ſecond place this ſheweth that they truſt not much to the juſtice of their Cauſe, for if they did, they would rather chuſe to truſt to a few, and thoſe ſuch whoſe hearts they know to be with them, as well as their bodyes, then to have their ſtrength bound with that weake bond of conſtrained conſciences, which will finde twenty wayes to unlooſe themſelves, but they feare if they ſhould truſt to that they ſhould not have ſo many men as were ſlaine to<g ref="char:EOLhyphen"/>ther day at <hi>Brackly.</hi>
+            </p>
+            <p>My fift and laſt Obſervation is, that they entred into Co<g ref="char:EOLhyphen"/>venant firſt, and after them the Kings Party, of which I ſhall make this uſe, to prove that theirs is the Offenſive, the Kings the Defenſive Party, which is a thing of the greateſt advan<g ref="char:EOLhyphen"/>tage to the King, and diſadvantage to them that may be both before God and Man, before Man, becauſe that ſurely they will never take part with them whom they beleeve to be the cauſers of all the miſeries that have fal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en unto them, and before God becauſe all the innocent blood that hath been, or ſhall be ſpilt in this bloody war will be required at their hands that were the Cauſers of it; and all the Rapes and Roberies that have been, and will be committed during the ſame, will be laid to their charge. As therefore every man in the managing his worldly affaires, taketh heed not to engage himſelf ſo for o<g ref="char:EOLhyphen"/>ther men as to be forced to the payment of their debts beſides his own: ſo let him more eſpecially take care that he put him<g ref="char:EOLhyphen"/>ſelf not in the number of thoſe, who at the day of Iudgment will have more laid upon their ſcore, then they can be able to make ſatisfaction for. Let not any man therefore for any worldly perſwaſion whatſoever, be induced to take this afore<g ref="char:EOLhyphen"/>ſaid oath of covenant, eſpecially if it be againſt his conſcience.</p>
+            <p>
+               <hi>I have here ſet down the Text with the Comment giving the prio<g ref="char:EOLhyphen"/>rity to thoſe to whom for their ſhame, not their honour it be<g ref="char:EOLhyphen"/>longeth.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="oath">
+               <body>
+                  <pb facs="tcp:104268:5" rendition="simple:additions"/>
+                  <head>A ſacred Vow and Covenant to be taken by the Armies and Kingdomes.</head>
+                  <p>I <hi>A. B.</hi> In hum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lity and reverence of the Divine Majeſty declare my hearty ſorrow for my owne ſins, and the ſins of this Nation, which have deſerved the calamities and judgements that now lie upon it: and my true intention is by Gods grace to endeavour the amendment of my own wayes; and I doe further in the preſence of Al<g ref="char:EOLhyphen"/>mighty God declare vow, and covenant, that in order to the ſecurity, and preſervation of the true Reformed Proteſtant Religion, and liberty of the Subject, I will not conſent to the laying downe of Armes, ſo long as the Papiſts now in open war againſt the Par<g ref="char:EOLhyphen"/>liament, ſhall by force of Armes be protected from the juſtice thereof, and that I doe abhorre and deteſt the ſaid wicked and treacherous deſigne lately diſcovered, and that I never gave, nor will give my aſſent to the execution thereof, but will according to my power and vocation oppoſe and reſiſt the ſame, and all other of the like nature: and in caſe any other like deſigne ſhal hereafter come to my knowledge, I wil make ſuch time<g ref="char:EOLhyphen"/>ly diſcovery, as I ſhal conceive may beſt conduce to the preventing thereof: And whereas I doe in my conſcience believe that the Forces raiſed by the two Houſes of Parliament are raiſed and continued for their juſt defence, and for the defence of the true Proteſtant Religion, and liberty of the Subject, againſt the Forces raiſed by the King; that I will according to my power and vocation, aſſiſt the Forces raiſed and continued by both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, againſt the Forces raiſed by the King without their conſent, and will likewiſe aſſiſt all other perſons that ſhall take this Oath, in what they ſhall doe in purſuance thereof, and will not directly or indirectly adhere unto, nor ſhall willingly aſſiſt the Forces raiſed by the K<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the conſent of both Houſes of Parliament; and this Vow and Covenant I make in the preſence of Almighty God, the ſearcher of all hearts, with a true intention to performe the ſame, as I ſhall anſwer at the great day, when the ſecrets of all hea<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſhall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</p>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="oath">
+               <body>
+                  <head>A ſacred Oath or Covenant to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>jeſties loyall Subjects, for the main<g ref="char:EOLhyphen"/>tenance of the true Reformed Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ion; his Majeſties juſt Rights, and the P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>led<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>liament.</head>
+                  <p>I Reſting fully aſſured of his Majeſties Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncely truth and goodneſſe, do freely and from my heart promiſe, vow <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> proteſt in the preſence of Almighty God, that I will to the uttermoſt of my p<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the hazard of my life maintaine the true Proteſtant Religion eſtabliſhed in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngland, his Majeſties ſacred perſon, his Heires and lawfull Succeſſors, his M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt power and priviledge, and the juſt power and priviledge of Parliament againſt the Forces under the conduct of the Earle of <hi>Eſſex,</hi> and againſt all other f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oever, contrary to his Majeſties command, and I doe believe that the rayſing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mploying of forces by his Majeſty for the pur<g ref="char:EOLhyphen"/>poſe and cauſe before mentioned, to be moſt juſt and neceſſary; and I will doe my utmoſt endeavour to procure and reeſtabliſh the peace and quiet of the Kingdome: and that here in his Majeſties ſubjects may fully enjoy their liberty and property according to the Law of the land, and will neither divulge nor communicate any thing to the ſaid Earle, his Officers or to any other, to hinder or prejudice the deſignes of his Majeſty, in the conduct or imployment of his Army, and I doe believe the Subjects of England are not obliged by any Act of State, Vote, Ordinance, or Declaration made or to bee made either by the Kings Majeſty ſolely; or by the Lords and Commons ſingly or joyntly, without his Majeſties expreſſe conſent, ſaving ſuch as are, or ſhall be in exe<g ref="char:EOLhyphen"/>cution of, or according to ſome knowne Law, Cuſtome of the Realme, or Statute en<g ref="char:EOLhyphen"/>acted by the King, Lords and Commons in Parliament, and I doe further proteſt and vow in the preſence of Almighty God, that I will not take nor beare Armes, but by the expr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe warrant of his Majeſty, or by Authority juſtly derived from his Majeſties im<g ref="char:EOLhyphen"/>mediate Warrant.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104268:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
